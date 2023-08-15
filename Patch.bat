@@ -1,0 +1,1 @@
+copy "\\80.11.79.184\decoupe\RDP\Default.rdp" "C:\Users\%Username%\Documents\Default.rdp"
